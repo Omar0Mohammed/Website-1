@@ -1,0 +1,199 @@
+* {
+margin : 0;
+padding : 0;
+}
+.logo {
+    max-width: 100%;
+    height: 70px;
+    padding: 15px 15px 5px 150px;
+    
+}
+.navbar-items a{
+    text-decoration: none;
+    list-style-type: none;
+        font-size: 18px;
+         color: white;
+        transition: 0.3s;
+    }
+
+.navbar-items {
+   padding: 30px 250px;
+   margin-top: 10px;
+}
+.navbar-items a:hover {
+    padding: 0px 3px;
+    color: tomato;
+ }
+.nav-link {
+    margin-left: 50px;
+}
+.sick {
+    padding: 10px 20px;
+}
+.sick-button{
+margin-right: 50px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.covid-img{
+    max-width: 100%;
+}
+.image {
+    max-width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-image: url(images/covid-19.png);
+}
+.stay-safe {
+    padding : 100px 0px
+}
+.stay-safe h1 {
+    color: white;
+    font-size: 60px;
+}
+.stay-safe p {
+    color: white;
+    font-size: 20px;
+    opacity: 0.7;
+}
+.stay-safe button {
+    color: white;
+    background-color: rgb(218, 80, 53);
+    font-size: 15px;
+    padding: 10px 30px;
+line-height: 40px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.doctor {
+padding: 10px;
+line-height: 150px;
+border: tomato 10px;
+border-radius: 40%;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.container {
+    background-size: cover;
+}
+.corona-stats {
+    padding: 100px 0px;
+}
+.statistics{
+    padding: 25px;
+    background-image: linear-gradient(125deg , rgb(218, 54, 25), rgb(236, 150, 150));
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.col-sm-3 h4 {
+    color: tomato;
+    font-size: 50px;
+}
+.col-sm-3 p {
+    color: black;
+    opacity: 0.5;
+}
+.col-sm-3{
+    padding: 15px 40px;
+    
+}
+.text-patient {
+    font-size: 30px;
+    color:tomato;
+}
+.text-patient-2 {
+    font-size: 20px;
+    color: black;
+    opacity: 0.5;
+}
+.patient-img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.text-patient-3 {
+    font-size: 20px;
+    color: black;
+    line-height: 35px;
+}
+.btn-danger {
+    padding: 15px 35px;
+    margin-top: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.fas{
+    color: tomato;
+}
+.spread-text {
+    text-align: center;
+    line-height: 200px;
+    font-size: 35px;
+    color: tomato;
+}
+.spread-text-2 {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    opacity: 0.5;
+}
+.touch-text {
+    color: tomato;
+    line-height: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+.touch-text-2{
+    color: black;
+    line-height: 50px;
+    font-size: 15px;
+    text-align: center;
+}
+.touching {
+    background-color: rgb(246, 229, 246);
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.img-touch {
+margin-left: 70px;
+padding: 20px;
+}
+.sym-text {
+    color: tomato;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 200px;
+}
+.sym-text-2 {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+}
+.fever-text {
+    color: tomato;
+    font-size: 25px;
+}
+.scan-img {
+    margin-top: 20%;
+}
+.scan-img img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.doctors-text{
+    text-align: center;
+    color: tomato;
+    font-size: 30px;
+    margin-top: 150px;
+}
+.doctors-text-2{
+    text-align: center;
+    font-size: 17px;
+}
+.text-doctor {
+    color : tomato;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.doctor-image {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.foot {
+    margin-top: 150px;
+}
